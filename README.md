@@ -8,7 +8,7 @@
 ## Install
 
 ``` shell
-git clone https://github.com/review-anon/BHER.git
+git clone https://github.com/Baichenjia/BHER.git
 cd BHER
 pip install -e .
 ```
