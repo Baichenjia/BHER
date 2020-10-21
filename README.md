@@ -17,6 +17,7 @@ pip install -e .
 
 - BHER
 - HER from [NeurIPS 2017](https://arxiv.org/abs/1707.01495) 
+- ARCHER from [ArXiv 2019](https://arxiv.org/abs/1809.02070)
 - MEP from [ICML 2019](https://arxiv.org/abs/1905.08786) 
 - CHER from [NeurIPS 2019](https://papers.nips.cc/paper/9425-curriculum-guided-hindsight-experience-replay)
 
